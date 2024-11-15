@@ -4,6 +4,8 @@ Name: Naveen Singh Panwar
 
 SAPID: 590010314
 
+Batch: B1
+
 # Contents
 
 Project 1: Personal Diary Application (tkinter)
